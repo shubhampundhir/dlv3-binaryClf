@@ -2,6 +2,10 @@
 
 DeepLabv3, DeepLabv3+ with pretrained models for Pascal VOC & Cityscapes.
 
+## Deeplab V3+ architecture extended for binary classification:-
+
+![Screenshot from 2024-04-15 17-29-04](https://github.com/shubhampundhir/dlv3-binaryClf/assets/56575094/e06dcb52-1eae-4c4d-8c69-7eda4d8f399d)
+
 ## Quick Start 
 
 ### 1. Available Architectures
